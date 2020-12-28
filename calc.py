@@ -50,5 +50,5 @@ while(True):
         obj1.div()
         break
     else:
-        print("choose correct sign e.g +,-")
+        print("choose correct sign e.g +,-,*,/")
         continue

@@ -190,6 +190,22 @@
 # z.close
 
 
-z = open("newfile.txt","r")
-print(z.read())
-z.close
+# z = open(r"C:\Users\IT\Desktop\ali Object\newfile.txt","r")
+# print(z.read())
+# z.close
+
+            # practice
+
+# a=int(input("enter any number"))          #backward counting
+# i=1
+# while(a>=i):
+#     print(a)
+#     a-=1
+
+
+
+# a=int(input("enter any number"))    #backward counting using forloop
+# i =1
+# for x in range(i,a+1):
+#     print(a)
+#     a-=1
